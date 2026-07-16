@@ -2,7 +2,7 @@
 
 <img src="https://tenor.com/cq9JSt34KTI.gif" width="220"/>
 
-# 🎀 Hi, I'm Natalie Clara
+# 🎀 Hi, I'm Bella
 
 🩺 Nursing Student  
 🌸 Indonesia  
