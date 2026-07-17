@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://tenor.com/cq9JSt34KTI.gif" width="220"/>
+<img src="./opening-the-window-flat.gif" width="220"/>
 
 # 🎀 Hi, I'm Bella
 
