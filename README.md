@@ -15,20 +15,20 @@
 
 ## 💗 About Me
 
-- 🩺 Nursing Student
+- 🩺 Medical Student
 - 📚 Currently studying Anatomy, Physiology & Pharmacology
 - ☕ Coffee + Music = Study Time
 - 🎀 My Melody Lover
 
 ---
-🩺 Nursing Portfolio
+🩺 Portfolio
 
-Selamat datang di portofolio keperawatan saya.
+Selamat datang di portofolio saya.
 
-Repository ini berisi kumpulan materi, laporan praktikum, asuhan keperawatan (Askep), evidence-based nursing, serta dokumentasi pembelajaran selama menempuh pendidikan keperawatan.
+Repository ini berisi kumpulan materi, laporan praktikum, asuhan keperawatan (Askep), evidence-based medical, serta dokumentasi pembelajaran selama menempuh pendidikan keperawatan.
 
 ## 📚 Daftar Isi
-- Dasar-Dasar Keperawatan
+- Dasar-Dasar medicalogi
 - Anatomi & Fisiologi
 - Farmakologi
 - Keperawatan Medikal Bedah
@@ -61,7 +61,7 @@ Repository ini dibuat sebagai media belajar, dokumentasi akademik, dan pengemban
 
 ---
 
-*"Compassion, Competence, and Professionalism in Nursing Care."* 🤍
+*"Compassion, Competence, and Professionalism in medical Care."* 🤍
 ## 🎵 Spotify
 https://open.spotify.com/user/31myrhcw4ekudkp2tks6ihf3f3ge?si=zGElewI1THyrn9rm0WoAdA&utm_source=copy-link
 
